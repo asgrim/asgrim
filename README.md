@@ -1,4 +1,12 @@
-### Hi there 👋
+😁 I help maintain some open source software!
+
+💻 I do a lot of PHP work, and dabble in C, Java, Rust and more.
+
+📫 You can get in touch with me on ...
+
+ * Twitter: <a href="https://twitter.com/asgrim">@asgrim</a>
+ * LinkedIn: <a href="https://uk.linkedin.com/in/jamestitcumb">uk.linkedin.com/in/jamestitcumb</a>
+ * Mastodon: <a rel="me" href="https://phpc.social/@asgrim">@asgrim@phpc.social</a>
 
 <!--
 **asgrim/asgrim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
