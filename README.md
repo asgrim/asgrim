@@ -6,7 +6,7 @@
 
  * Twitter: <a href="https://twitter.com/asgrim">@asgrim</a>
  * LinkedIn: <a href="https://uk.linkedin.com/in/jamestitcumb">uk.linkedin.com/in/jamestitcumb</a>
- * Mastodon: <a rel="me" href="https://phpc.social/@asgrim">@asgrim@phpc.social</a>
+ * Mastodon: <a rel="me" href="https://phpc.social/@asgrim">@asgrim on phpc.social</a>
 
 <!--
 **asgrim/asgrim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
