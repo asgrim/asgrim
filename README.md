@@ -1,6 +1,6 @@
-😁 I help maintain some open source software!
+💻 I am a consultant, software developer, and trainer.
 
-💻 I do a lot of PHP work, and dabble in C, Java, Rust and more.
+😁 I help maintain some open source software!
 
 📫 You can get in touch with me on ...
 
