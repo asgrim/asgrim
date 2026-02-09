@@ -1,12 +1,12 @@
-💻 I am a consultant, software developer, and trainer.
+💻 I am a software developer, often tech lead/engineering manager.
 
-😁 I help maintain some open source software!
+😁 I help maintain some open source software, such as 🥧 [PIE](https://github.com/php/pie).
 
 📫 You can get in touch with me on ...
 
  * Mastodon: <a rel="me" href="https://phpc.social/@asgrim">@asgrim on phpc.social</a>
- * Bluesky: <a href="https://bsky.app/profile/asgrim.dev">@asgrim.dev</a>
- * LinkedIn: <a href="https://uk.linkedin.com/in/jamestitcumb">uk.linkedin.com/in/jamestitcumb</a>
+ * LinkedIn: [uk.linkedin.com/in/jamestitcumb](https://uk.linkedin.com/in/jamestitcumb)
+ * The Roave Discord: [discord.gg/roave](https://discord.gg/roave)
 
 <!--
 **asgrim/asgrim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
